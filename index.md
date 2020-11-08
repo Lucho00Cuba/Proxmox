@@ -13,5 +13,3 @@
 * Soporte para RAID por hardware o ZFS
     
 * Tarjetas de red Gbit (Cantidad según la configuración de almacenamiento externo y/o cluster)
-
-## About
