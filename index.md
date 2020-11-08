@@ -26,5 +26,5 @@ permalink: /
 
 *Maximizar el uso de sus recursos existentes, reducir el costo de hardware y una rápida implementación de servidores, es necesario contar un una solución estable y poderosa para la administración centralizada en virtualización.*
 
-![Proxmox](https://github.com/Lucho00Cuba/Proxmox/blob/main/src/Proxmox.jpg)
+![Proxmox](https://raw.githubusercontent.com/Lucho00Cuba/Proxmox/main/src/Proxmox.jpg)
 
