@@ -16,7 +16,7 @@ permalink: /
 
 * Tarjeta Madre con soporte para virtualización (Intel VT ó AMD-V) 2 GB en RAM, solo servicios PVE.
     
-* Discos duros rápidos (15k rpm SAS, SSD)
+* Discos duros rápidos (SSD)
     
 * Soporte para RAID por hardware o ZFS
     
@@ -26,4 +26,5 @@ permalink: /
 
 *Maximizar el uso de sus recursos existentes, reducir el costo de hardware y una rápida implementación de servidores, es necesario contar un una solución estable y poderosa para la administración centralizada en virtualización.*
 
-![Proxmox](https://blog.desdelinux.net/wp-content/uploads/2019/07/Proxmox-VE-on-AMD-EPYC.jpg)
+![Proxmox](https://github.com/Lucho00Cuba/Docker/tree/main/Proxmox/src/Proxmox.jpg)
+
