@@ -8,7 +8,7 @@ permalink: /
 
 ## Proxmox
 
-*_Proxmox Virtual Environment, o Proxmox VE, entorno de virtualización de servidores de código abierto. Está en distribuciones GNU/Linux basadas en Debian con una versión modificada del Kernel RHEL y permite el despliegue y la gestión de máquinas virtuales y contenedores_*
+*Proxmox Virtual Environment, o Proxmox VE, entorno de virtualización de servidores de código abierto. Está en distribuciones GNU/Linux basadas en Debian con una versión modificada del Kernel RHEL y permite el despliegue y la gestión de máquinas virtuales y contenedores*
 
 ### Requisitos
 
@@ -21,3 +21,9 @@ permalink: /
 * Soporte para RAID por hardware o ZFS
     
 * Tarjetas de red Gbit (Cantidad según la configuración de almacenamiento externo y/o cluster)
+
+### Introduccion a Proxmox como Hypervisor
+
+*Maximizar el uso de sus recursos existentes, reducir el costo de hardware y una rápida implementación de servidores, es necesario contar un una solución estable y poderosa para la administración centralizada en virtualización.*
+
+[Proxmox](https://blog.desdelinux.net/wp-content/uploads/2019/07/Proxmox-VE-on-AMD-EPYC.jpg)
