@@ -6,6 +6,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /
+description: "GitHub Pages for Proxmox Tutorials."
+permalink: /index.md
+---
+
+---
+layout: default
+title: About
+nav_order: 2
+description: "About for Pages."
+permalink: /about.md
 ---
