@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Instalacion
+title: Empezar
 nav_order: 2
 ---
 
-# Instalacion  
+# Empezar a usar Proxmox  
 
 * VMware 15.5 Pro o algun virtualizador
 * Imagen ISO de Proxmox
