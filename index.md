@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Inicio
 nav_order: 1
 description: "GitHub Pages for Proxmox Tutorials."
 permalink: /
@@ -26,4 +26,4 @@ permalink: /
 
 *Maximizar el uso de sus recursos existentes, reducir el costo de hardware y una rápida implementación de servidores, es necesario contar un una solución estable y poderosa para la administración centralizada en virtualización.*
 
-[Proxmox](https://blog.desdelinux.net/wp-content/uploads/2019/07/Proxmox-VE-on-AMD-EPYC.jpg)
+![Proxmox](https://blog.desdelinux.net/wp-content/uploads/2019/07/Proxmox-VE-on-AMD-EPYC.jpg)
