@@ -36,7 +36,7 @@ permalink: /
 
 * **Máquina virtual basada en kernel (​KVM)** es una solución para implementar virtualización sobre Linux.  Puede funcionar en hardware x86/x86_64 y es necesario que el microprocesador tenga soporte de virtualización ya sea Intel VT-x o AMD-V
 
-* **Virtualización basada en contenedores (LXC)**, es una alternativa para ejecutar máquina Linux en espacios separados.  A diferencia de la virtualización KVM este funciona como un módulo agregado al servidor físico y hace uso directo del hardware (también conocido como Paravirtualización
+* **Virtualización basada en contenedores (LXC)**, es una alternativa para ejecutar máquina Linux en espacios separados.  A diferencia de la virtualización KVM este funciona como un módulo agregado al servidor físico y hace uso directo del hardware (también conocido como Paravirtualización)
 
 * **Los Respaldos** se administran a través de su interfaz Web.  Puede efectuar un respaldo de forma inmediata o programado.  La restauración es simple, solo debe de seleccionar el backup a restaurar y listo
 
