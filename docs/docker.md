@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dockerizacion
-nav_order: 3
+nav_order: 4
 ---
 
 ## Dockerizacion
@@ -10,7 +10,7 @@ nav_order: 3
 
 >“Los contenedores de docker envuelven una pieza de software en un sistema de archivos completo que contiene todo lo que necesita para ser ejecutada: código, tiempo de ejecución, herramientas del sistema, y librerías o cualquier cosa que pueda ser instalada en un servidor. Esto garantiza que el software siempre sera ejecutado de la misma manera independientemente de el ambiente.”
 
-## Aplicaciones de Docker en Contenedores Proxmox VE
+## Aplicaciones de Docker en Contenedores LXC Proxmox VE
 
 ### Aportes de Docker
 
