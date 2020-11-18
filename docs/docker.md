@@ -31,3 +31,7 @@ _En el siguiente enlace encontraremos aplicaciones listas para ser levantadas en
 _Un orquestador, como la propia palabra indica, lo podemos definir con un “director de orquesta”, donde cada uno de los elementos a dirigir es un contenedor. Un orquestador tiene sentido cuando tenemos que manejar un sistema con muchos contenedores implementados sobre multitud de servidores, es decir, en un entorno clusterizado. En este escenario el manejo manual se complica demasiado_
 
 **Utilizaremos Docker Swarm a lo largo del Proyecto**
+
+## Docker Swarm
+
+_Un Docker Swarm es un grupo de máquinas físicas o virtuales que ejecutan la aplicación Docker y que se han configurado para unirse en un clúster. Una vez que un grupo de máquinas se ha agrupado, aún puede ejecutar los comandos de Docker a los que está acostumbrado, pero ahora los ejecutarán las máquinas de su clúster. Las actividades del clúster están controladas por un administrador de enjambres y las máquinas que se han unido al clúster se denominan nodos._
