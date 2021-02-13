@@ -40,4 +40,4 @@ _Un Docker Swarm es un grupo de máquinas físicas o virtuales que ejecutan la a
 
 _Pequeño tutorial donde se instala proxmox. En un contenedor LXC ubuntu 20.04 se instala docker y docker compose y se hace el despliegue de un sitio con wordpress muy simple_
 
-[Video](https://youtu.be/aB-hbJK9qUA)
+[Video](https://youtu.be/aB-hbJK9qUA){: .btn .btn-green}
